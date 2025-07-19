@@ -24,7 +24,7 @@ Used BeautifulSoup, Requests, and Pandas for web scraping and data handling.
 Scraped company financials from Fortune India Comapnies - 2024 using HTML parsing.
 Retrieved key financial metrics like Revenue, Profit, ROCE, RONW, TSR%, Employees, Debt, and Assets.
 
-<img width="1490" height="560" alt="Extract and clean table headers" src="https://github.com/user-attachments/assets/9b40b374-9e83-4230-8281-730ddfed5e11" />
+<img width="1490" height="560" alt="Extract and clean table headers" src="https://github.com/user-attachments/assets/6cad6ca6-20df-42ff-9134-8feaa8a439fd" />
 
 <br>
 <br>
@@ -34,9 +34,10 @@ Retrieved key financial metrics like Revenue, Profit, ROCE, RONW, TSR%, Employee
 Removed unwanted HTML tags and formatted extracted tables into a clean DataFrame.
 Cleaned headers, removed redundant columns, and converted numeric text columns for analysis.
 
-<img width="1491" height="691" alt="Building dt from cleaned table rows" src="https://github.com/user-attachments/assets/1724f595-d437-420b-b115-04f8c2cde274" />
+<img width="1491" height="691" alt="Building dt from cleaned table rows" src="https://github.com/user-attachments/assets/0f2596b8-fa59-4b63-b5c3-ff88788fe242" />
 
-<img width="1492" height="670" alt="Renaing and refining table columns" src="https://github.com/user-attachments/assets/66fde6a0-3e22-4ed2-898d-5b609fec434c" />
+<img width="1492" height="670" alt="Renaing and refining table columns" src="https://github.com/user-attachments/assets/ef4ff915-55bb-4596-b7da-0f72c8af504f" />
+
 
 <br>
 <br>
@@ -45,7 +46,8 @@ Cleaned headers, removed redundant columns, and converted numeric text columns f
 **4️⃣ Data Export**
 Saved the cleaned dataset as CSV for further analysis in Power BI.
 
-<img width="1495" height="521" alt="converting data into csv file" src="https://github.com/user-attachments/assets/35fe190b-72d0-490e-986c-761a70ae3f3d" />
+<img width="1495" height="521" alt="converting data into csv file" src="https://github.com/user-attachments/assets/5ac9ea4f-b16f-4224-9295-ff0c06accc77" />
+
 
 <br>
 <br>
@@ -58,9 +60,9 @@ Linked with a secondary table containing sector classifications (15+ sectors).
 
 Used measures like Total Income, Net Profit, Assets, TSR%, and ROCE% for insights.
 
-<img width="1330" height="785" alt="Report page" src="https://github.com/user-attachments/assets/35e0f92c-3efb-4850-b7e8-835a4b8b1d85" />
+<img width="1330" height="785" alt="Report page" src="https://github.com/user-attachments/assets/0cb8891d-a619-41d6-b712-2ee12dc27e53" />
 
-<img width="1332" height="768" alt="Overview page" src="https://github.com/user-attachments/assets/04c2873a-0bfb-49e5-8c6b-6b3b318c464d" />
+<img width="1332" height="768" alt="Overview page" src="https://github.com/user-attachments/assets/45aaff14-acdc-429c-bad1-da8de91166cd" />
 
 <br>
 <br>
