@@ -24,7 +24,7 @@ Used BeautifulSoup, Requests, and Pandas for web scraping and data handling.
 Scraped company financials from Fortune India Comapnies - 2024 using HTML parsing.
 Retrieved key financial metrics like Revenue, Profit, ROCE, RONW, TSR%, Employees, Debt, and Assets.
 
-<img width="1490" height="560" alt="Extract and clean table headers" src="https://github.com/user-attachments/assets/9a797b20-5d1b-46cc-b849-af8a50b37093" />
+<img width="1490" height="560" alt="Extract and clean table headers" src="https://github.com/user-attachments/assets/9b40b374-9e83-4230-8281-730ddfed5e11" />
 
 <br>
 <br>
