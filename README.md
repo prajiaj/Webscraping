@@ -1,3 +1,4 @@
+<img width="1332" height="768" alt="Overview page" src="https://github.com/user-attachments/assets/9b62b067-ddda-4f00-ad45-487ac3614ba9" />
 ## Project Overview ##
 This project focuses on web scraping, data cleaning, and interactive visualization of the Fortune India Companies (2024) companies' financial data. The main objective was to extract structured information from the official website, clean and refine the dataset, and create insightful business dashboards using Power BI.
 
